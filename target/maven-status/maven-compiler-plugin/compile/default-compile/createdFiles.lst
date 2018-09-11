@@ -1,0 +1,9 @@
+com\shiro\testAuthentication\MyRealm.class
+com\shiro\testAuthentication\MyRealm2.class
+com\shiro\testAuthentication\AuthenticatorTest.class
+com\shiro\testAuthorization\BaseTest.class
+com\shiro\testAuthorization\RoleTest.class
+com\shiro\testAuthorization\MultiplePermissionTest.class
+com\shiro\testAuthorization\PermissionTest.class
+com\shiro\testAuthentication\HelloShiro.class
+com\shiro\testAuthentication\MyRealm3.class
